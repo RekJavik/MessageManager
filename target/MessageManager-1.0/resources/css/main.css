@@ -1,0 +1,9 @@
+h2.headertext {
+  text-align: center;
+  color: #555;
+}
+.div_center{
+  display: table;
+  margin: 0 auto;
+}
+
